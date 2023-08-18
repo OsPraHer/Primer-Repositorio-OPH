@@ -13,7 +13,7 @@ private:
 public:
     //metodos
     void solicitarInformacion(){
-    	cout << "Escriba el número para verificar si es un cubo perfecto:" << endl;
+    	cout << "Por favor Escriba el nÃºmero para verificar si es un cubo perfecto:" << endl;
 	    cin >> numeroingresado;
     }
 
